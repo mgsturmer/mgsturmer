@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mgsturmer
-- 👀 I’m interested in AI, Forex robots and Bioinformatics
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full Stack development, AI, Forex robots and Bioinformatics
+- 🌱 I’m currently learning Javascript with React and Node. 
 - 📫 Reach me on mgsturmer@gmail.com
 
 <!---
